@@ -20,7 +20,7 @@ namespace WebApplication1.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private  DbContext dbt;
-        //private readonly Configuration cfg; branch1
+        //private readonly Configuration cfg; branch1-one
         private readonly TestDBContext _TestDBContext;
 
 
